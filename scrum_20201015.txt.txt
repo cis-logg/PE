@@ -1,0 +1,5 @@
+했던 일 : CA/OS 복습, 2교시 셀테 시도..
+한일 : DB/경영 1교시 답안 준비, RDBMS dirty read, phantom read 설명
+할일 : DB/경영 1, 2교시 답안 준비
+장애 : 
+극복 : 
