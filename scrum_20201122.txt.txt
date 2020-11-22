@@ -1,0 +1,5 @@
+했던 일 : 인터럽트, TLB, Cache Clean/Flush
+한일 : CAOS 두번째 강의듣기
+할일 : CAOS 복습
+장애 : 
+극복 : 
